@@ -1,7 +1,22 @@
+
+#submittedLabel {
+	margin-top: 15px;
+}
+
+#submitButton {
+	color: #fff;
+}
+
+#submitButton:hover {
+	cursor: pointer;
+}
+
+
 body
 {
 	margin: 0;
 	padding: 0;
+	overflow-x: hidden;
 }
 
  
@@ -805,9 +820,6 @@ div ul li ul li ul li a:hover
 	transition: 0.3s ease-in;
 
 }
-
-
-
 
 
 /**************************************************Footer stlye end**********************************************/
